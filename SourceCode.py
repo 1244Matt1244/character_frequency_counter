@@ -4,9 +4,9 @@ import glob
 
 # Lista putanja do direktorija
 directories = [
-    "C:/Users/korisnik/Desktop/Machine17/Croatian_Invoices_snippets",
-    "C:/Users/korisnik/Desktop/Machine17/French_Invoices_snippets",
-    "C:/Users/korisnik/Desktop/Machine17/Spanish_Invoices_snippets"
+    "C:/*/Machine17/Croatian_Invoices_snippets",
+    "C:/*/Machine17/French_Invoices_snippets",
+    "C:/*/Machine17/Spanish_Invoices_snippets"
 ]
 
 # Funkcija za čitanje prvog reda i izračunavanje frekvencije znakova
