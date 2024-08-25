@@ -27,15 +27,6 @@ The repository `character_frequency_counter` is a public GitHub repository that 
 - **Releases:** No releases published  
 - **Packages:** No packages published
 
-### Repository Features
-
-- **Code Issues:** 0  
-- **Pull Requests:** 0  
-- **Discussions:** None  
-- **Actions:** None  
-- **Projects:** 0  
-- **Security Insights:** None
-
 ### Usage
 
 To use the character frequency counter, one would typically:
